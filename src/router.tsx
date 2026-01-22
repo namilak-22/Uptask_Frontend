@@ -17,7 +17,7 @@ import ChangePasswordView from "./views/profile/ChangePasswordView";
 import ProfileLayout from "./layouts/ProfileLayout";
 
 //import DashboardView from './views/DashboardView'
-import notFound from "./views/404/NotFound";
+
 import NotFound from "./views/404/NotFound";
 
 export default function Router() {
